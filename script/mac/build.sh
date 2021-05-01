@@ -1,4 +1,5 @@
 #!/bin/bash
+set -eux
 
 # cleanup
 rm -rf ./out/build
